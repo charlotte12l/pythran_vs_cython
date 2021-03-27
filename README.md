@@ -5,7 +5,7 @@ This repo is a simple comparison between Pythran and Cython for function `_kenda
 - my_dis.py: `_kendall_dis()` accelerated with Pythran. The code is almost the same as `_kendall_dis()` in scipy.stats._stats.pyx
 - demo.ipynb: Demo that compares the performance.
 
-## Prerequsite
+## Prerequisite
 
 - Installed Scipy
 - Installed Pythran and Cython
